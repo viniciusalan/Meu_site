@@ -53,9 +53,9 @@ section .container {
 }
 
 .link-contacts img {
-    height: 100px;
+    height: 66px;
     position: fixed;
-    bottom: 50px;
+    bottom: 56px;
     right: 10px;
 }
 
